@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Repositório destinado a diversos exercícios de Inteligência Artificial para ampliar o meu leque de conhecimento nesta área e me aventurar em "mundo", até então, desconhecido por mim.
+Repositório destinado a prática de diversos exercícios de Inteligência Artificial para ampliar o meu leque de conhecimento nesta área e me aventurar em "mundo", até então, desconhecido por mim.
 
 ## Status do projeto
 
